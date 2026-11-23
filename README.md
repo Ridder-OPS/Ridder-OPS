@@ -16,7 +16,7 @@
 
 ## À propos de moi
 
-Je suis étudiant en **B1 Informatique à l'IPSSI Bordeaux**, avec un intérêt particulier pour le **développement**, la **cybersécurité** et les **systèmes et réseaux**.
+Je suis étudiant en **B2 Informatique à l'IPSSI Bordeaux**, avec un intérêt particulier pour le **développement**, la **cybersécurité** et les **systèmes et réseaux**.
 
 J'aime apprendre par la pratique : développer des applications web, écrire des scripts Python, configurer des environnements Linux et Windows Server, ou encore concevoir des jeux avec Unity.
 
