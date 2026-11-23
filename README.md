@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ridder--OPS-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ridder-OPS)
 ![Localisation](https://img.shields.io/badge/Bordeaux-France-0969DA?style=flat-square)
-![Formation](https://img.shields.io/badge/IPSSI-B1%20Informatique-238636?style=flat-square)
+![Formation](https://img.shields.io/badge/IPSSI-B2%20Informatique-238636?style=flat-square)
 
 </div>
 
@@ -33,6 +33,22 @@ J'aime apprendre par la pratique : développer des applications web, écrire des
 **Systèmes, outils & environnements**
 
 <img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github,vscode,unity&perline=7" alt="Linux, Windows, Bash, Git, GitHub, VS Code et Unity" />
+
+</div>
+
+## Certifications
+
+<div align="center">
+
+**Cisco Networking Academy**
+
+<img src="assets/certifications/cisco-intro-cyber.png" width="135" alt="Badge Cisco Networking Academy - Introduction to Cybersecurity" />
+&nbsp;&nbsp;&nbsp;
+<img src="assets/certifications/cisco-linux-unhatched.png" width="110" alt="Badge Cisco Networking Academy - Linux Unhatched" />
+
+<br />
+
+<sub>Introduction to Cybersecurity &nbsp;•&nbsp; Linux Unhatched</sub>
 
 </div>
 
