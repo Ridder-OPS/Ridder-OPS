@@ -42,9 +42,9 @@ J'aime apprendre par la pratique : développer des applications web, écrire des
 
 **Cisco Networking Academy**
 
-<img src="assets/certifications/cisco-intro-cyber.png" width="135" alt="Badge Cisco Networking Academy - Introduction to Cybersecurity" />
+<img src="certifications/cisco-intro-cyber.png" width="135" alt="Badge Cisco Networking Academy - Introduction to Cybersecurity" />
 &nbsp;&nbsp;&nbsp;
-<img src="assets/certifications/cisco-linux-unhatched.png" width="110" alt="Badge Cisco Networking Academy - Linux Unhatched" />
+<img src="certifications/cisco-linux-unhatched.png" width="110" alt="Badge Cisco Networking Academy - Linux Unhatched" />
 
 <br />
 
